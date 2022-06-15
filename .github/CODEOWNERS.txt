@@ -1,0 +1,5 @@
+# Every request must be reviewed and accepted by:
+
+*	@NazarenoCavazzon
+*	@tomassasovsky
+*	@jorger5
